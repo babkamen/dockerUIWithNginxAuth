@@ -2,6 +2,6 @@
 
 DockerUI with nginx auth
 
-Login admin
+Login: admin
 
 Password: admin
